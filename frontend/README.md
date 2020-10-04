@@ -16,3 +16,11 @@ yarn start
 ```
 
 - Open localhost:3000 on the browser - TADAA 🎉
+
+## Run tests
+
+```
+yarn test - run tests
+yarn test:watch - run tests with watch mode
+yarn test:coverage - run test coverage
+```
