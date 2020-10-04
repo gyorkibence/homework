@@ -1,0 +1,47 @@
+.select-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .ant-select-selector {
+    height: 40px!important;
+    border-radius: 12px!important;
+
+    .ant-select-selection-placeholder {
+      line-height: 40px!important;
+    }
+    
+    input {
+      height: 100%!important;
+    }
+  }
+
+  .select-label {
+    margin-bottom: 8px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: .3px;
+  }
+}
+
+
+.ant-select-dropdown {
+  padding: 0!important;
+
+  .add-input-container {
+    display: flex;
+    height: 40px;
+
+    span {
+      width: 20%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    input {
+      max-width: 80%;
+    }
+  }
+}

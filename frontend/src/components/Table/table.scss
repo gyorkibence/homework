@@ -1,0 +1,20 @@
+.table-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  .export-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 16px;
+  }
+
+  .ant-table-content {
+    overflow-y: scroll;
+  }
+
+  .action-container {
+    display: flex;
+    justify-content: space-around;
+  }
+}

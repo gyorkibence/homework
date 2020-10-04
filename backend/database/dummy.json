@@ -1,0 +1,81 @@
+{
+  "partner": [
+    {
+      "name": "Name Jonas",
+      "business_form_id": 1,
+      "tax_number": 1231231231,
+      "company_registration_number": 1234,
+      "city_id": 2,
+      "address": "Baranyai",
+      "phone": "+36302342123",
+      "bank_account_number": "1234123412341234",
+      "message": "Hello!"
+    },
+    {
+      "name": "Name Bela",
+      "business_form_id": 2,
+      "tax_number": 1231231231,
+      "company_registration_number": 1234,
+      "city_id": 1,
+      "address": "Baranyai",
+      "phone": "+36302342123",
+      "bank_account_number": "1234123412341234",
+      "message": "Hello!"
+    },
+    {
+      "name": "Name Peter",
+      "business_form_id": 3,
+      "tax_number": 1231231231,
+      "company_registration_number": 1234,
+      "city_id": 2,
+      "address": "Baranyai",
+      "phone": "+36302342123",
+      "bank_account_number": "1234123412341234",
+      "message": "Hello!"
+    },
+    {
+      "name": "Name Steve",
+      "business_form_id": 1,
+      "tax_number": 1231231231,
+      "company_registration_number": 1234,
+      "city_id": 2,
+      "address": "Baranyai",
+      "phone": "+36302342123",
+      "bank_account_number": "1234123412341234",
+      "message": "Hello!"
+    },
+    {
+      "name": "Nameless",
+      "business_form_id": 1,
+      "tax_number": 1231231231,
+      "company_registration_number": 1234,
+      "city_id": 2,
+      "address": "Baranyai",
+      "phone": "+36302342123",
+      "bank_account_number": "1234123412341234",
+      "message": "Hello!"
+    }
+  ],
+  "city": [
+    {
+      "name": "Boston"
+    },
+    {
+      "name": "London"
+    },
+    {
+      "name": "Budapest"
+    }
+  ],
+  "business_form": [
+    {
+      "business_form": "KFT"
+    },
+    {
+      "business_form": "ZRT"
+    },
+    {
+      "business_form": "BT"
+    }
+  ]
+}

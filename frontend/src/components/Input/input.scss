@@ -1,0 +1,18 @@
+.input-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .input-label {
+    margin-bottom: 8px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: .3px;
+  }
+
+  .ant-input {
+    height: 40px;
+    border-radius: 12px;
+  }
+}

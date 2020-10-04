@@ -1,0 +1,21 @@
+.modal-body {
+  .container {
+    display: flex;
+    flex-direction: column;
+
+    .modal-form-container {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .modal-button-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  .button-container {
+    background-color: rgb(140, 198, 62)!important;
+  }
+}
